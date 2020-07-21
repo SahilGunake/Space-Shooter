@@ -35,7 +35,7 @@ ExportedObj/
 *.csproj
 *.unityproj
 *.sln
-*.html
+*.htm
 *.suo
 *.tmp
 *.user
